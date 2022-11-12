@@ -1,6 +1,6 @@
 # hackathon
 A weekend hackathon by JSU and Southwest Airlines ~~ Team Yosima
-~ Successfully created a web app for ten year heart rate predictions
+~ Successfully created a machine learning model for ten year heart disease prediction and deployed it on a web app
 
  The framingham Heart Study is a long term cardiovascular study of residents of Framingham Massachussets. A series of clinical trials were conducted on a group of patients, and risk factors such as BMI, their blood pressure, and cholesterol levels were recorded.
 
